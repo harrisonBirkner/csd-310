@@ -2,6 +2,7 @@
 
 # The purpose of this program is to attempt to connect to my pytech
 # MongoDB database and print a list of collections in the database.
+# Link to repo: https://github.com/harrisonBirkner/csd-310
 
 from pymongo import MongoClient
 import certifi
