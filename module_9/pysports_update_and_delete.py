@@ -1,4 +1,4 @@
-# Harrison Birkner, 03/01/2022, Module 9.2 Assignment
+# Harrison Birkner, 03/03/2022, Module 9.3 Assignment
 
 # The purpose of this program is to connect to the pysports database, insert and delete rows from a table, and query multiple tables
 # using a join to show the operations were done successfully.
